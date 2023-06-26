@@ -1,6 +1,5 @@
 # Drowsiness-detection-using-computer-vision-and-OpenCV
 
-# Drowsiness-Detetction-system
 This project is a Python-based drowsiness detection system that can detect when a person is becoming drowsy or falling asleep while driving. The system uses computer vision techniques to analyze the position and movement of the eyes to determine whether the person is becoming drowsy. If drowsiness is detected, the system can alert the person with an alarm or notification to prevent accidents.
 
 ## Dependencies
