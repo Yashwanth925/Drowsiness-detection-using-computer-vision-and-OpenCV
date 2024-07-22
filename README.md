@@ -26,13 +26,7 @@ The system will start analyzing the video feed from your computer's camera and d
 
 The project consists of the following files:
 
-1)'Drowsiness Detection System.py': The main Python script that contains the code for the drowsiness detection system.\
+1)'Drowsiness Detection using open cv and computer vision.ipynb': The main Python script that contains the code for the drowsiness detection system.\
 2)'landmark.dat': A pre-trained model file that contains the facial landmark data required for the detection process.\
-3)'alarm.wav': A audio file to get alert sound when the user gets asleep with and warning indication.\
+3)'alert(1).mp3': A audio file to get alert sound when the user gets asleep with and warning indication.\
 
-## Contributing
-Contributions to this project are welcome! If you find any bugs or have any suggestions for improvements, please feel free to create an issue or pull request.
-
-## License
-This project is licensed under the MIT License - see the 'LICENSE' file for details.
-[MIT](https://choosealicense.com/licenses/mit/)
